@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Why a Pre-Approval Should Be Your First Home Buying Step
-date: 2020-01-24 15:30:54
+date: 2020-01-24 15:30:00
 tags:
 excerpt: >-
   If you’re buying a home, the first step in the process is a no-brainer.
   Mortgage lender Michael Maher joined me recently to discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Armond+Garcia/Why+a+Pre-Approval+Should+Be+Your+First+Home+Buying+Step.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
