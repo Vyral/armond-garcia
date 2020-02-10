@@ -19,13 +19,13 @@ youtube_code: SSlc6MGt9Ik
 
 Today I’m with two new homebuyers, Jeremy and Destiny, who just officially became homeowners\!&nbsp;
 
-Three or four years ago, Jeremy and I first started talking about buying the home they’ll soon get the keys to. He was looking to buy a house for his family, and he wasn’t sure what to do.
+Three or four years ago, Jeremy and I first started talking about buying the home they wanted. He was looking to buy a house for his family, and he wasn’t sure what to do.
 
 He and I put together a plan, and when the market became just right a few months ago, we started into the process. Now, in just a couple of days, they’ll receive the keys to their new home.
 
 {% include pullquote.html %}
 
-**Overall, the process went a lot easier and quicker than they expected.** And here’s a shout-out to Crane Financial for their help in the process of financing the purchase. At the end of the day, my job isn’t only to provide buyers with representation on the real estate side, but also to help clients find good lenders.
+**Overall, the process was a lot easier and quicker than they expected.**&nbsp;Here’s a shout-out to Crane Financial for their help with the process of financing the purchase. At the end of the day, my job isn’t only to provide buyers with representation on the real estate side, but also to help clients find good lenders.
 
 Our current market is prime for homebuyers since interest rates are so low. Inventory has been scarce, but Jeremy and Destiny were able to snatch up this beautiful Marysville home anyway.
 
