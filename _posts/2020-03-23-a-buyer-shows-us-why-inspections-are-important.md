@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Buyer Shows Us Why Inspections Are Important
-date: 2020-03-23 20:59:18
+date: 2020-03-23 20:59:00
 tags:
 excerpt: >-
   Home inspections seem like a formality, but they can really protect homebuyers
@@ -21,10 +21,10 @@ It’s a great day in Shelton because we’ve got the “Golden Hammer” out to
 
 The reason the first two deals didn’t go through was because the condition of the homes were worse than we thought upon inspection. **If we would have waived the inspection or ignored it, David wouldn’t know about issues that could have cost thousands of dollars to fix.&nbsp;**
 
+{% include pullquote.html %}
+
 We all get excited as homebuyers, but it’s also important to do our due diligence. In all three instances where we’ve been under contract, we inspected the home so we knew exactly what we were buying, and we eventually found the right fit.
 
 If you have any questions for me about the process of buying or selling a home in today’s market, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
 
-Teaser: It’s another great day in Shelton because we helped another great client close on their home purchase. We’ve been working with David for a while now. In fact, this is the third property that we’ve had under contract for him. Although the first two fell apart due to inspection issues, they highlighted the importance of the home inspection in the buying process. To see how his third attempt fared, watch this short video.
-
-{% include pullquote.html %}
+&nbsp;
