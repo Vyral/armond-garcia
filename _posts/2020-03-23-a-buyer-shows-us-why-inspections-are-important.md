@@ -19,7 +19,7 @@ youtube_code: 5MAHumz2FSs
 
 It’s a great day in Shelton because we’ve got the “Golden Hammer” out to hammer our latest “SOLD” sign. David is a first-time homebuyer, and this is the third home that we have gone under contract with during this process. Third time’s the charm, as they say, and we’ve finally closed on a brand-new home for David.
 
-The reason the first two deals didn’t go through was because the condition of the homes were worse than we thought upon inspection. **If we would have waived the inspection or ignored it, David wouldn’t know about issues that could have cost thousands of dollars to fix.&nbsp;**
+The reason the first two deals didn’t go through was that the condition of the homes was worse than we thought upon inspection. **If we would have waived the inspection or ignored it, David wouldn’t know about issues that could have cost thousands of dollars to fix.&nbsp;**
 
 {% include pullquote.html %}
 
