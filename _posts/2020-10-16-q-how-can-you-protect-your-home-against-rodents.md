@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Protect Your Home Against Rodents?'
-date: 2020-10-16 14:40:59
+date: 2020-10-16 14:40:00
 tags:
 excerpt: 'Here’s how to prevent, identify, and resolve a rodent problem in your home.'
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: /thBQxosdNHo
+youtube_code: 87Hb3q_4pM
 ---
 
 {% include youtube.html %}
