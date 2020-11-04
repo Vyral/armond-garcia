@@ -17,7 +17,7 @@ youtube_code: 787Hb3q_4pM
 
 Twice a year, I like to go down into my home’s crawl space and check for rodents. Even though the house is brand-new, it’s just as susceptible as any other property to rodent problems, especially during this season when rodents are looking for places to escape the colder weather. To prevent vermin from living rent-free under my home, I place bait boxes all throughout my crawl space. I like to focus on a few strategic choke points, like the edge of the foundation or beside sections of pipe that the critters might run along.&nbsp;
 
-Typically, you’ll be tipped-off to a rodent problem by pellets, tiny footprints along tucked-away areas where dust has gathered, or patches of hanging insulation. As someone who sells many homes and has been involved in countless home inspections, I can confirm that rodents are a huge issue in Washington; you’ll find them in practically nine out of every 10 homes, either in the attic or the crawl space.&nbsp;
+Typically, you’ll be tipped-off to a rodent problem by pellets, tiny footprints along tucked-away areas where dust has gathered, or patches of hanging insulation. As someone who sells many homes and has been involved in countless home inspections, I can confirm that rodents are a huge issue in Washington.
 
 {% include pullquote.html %}
 
